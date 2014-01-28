@@ -1,1 +1,2 @@
 This contains things i learned yesterday.
+Get tracking files
